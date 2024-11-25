@@ -1,0 +1,8 @@
+Metric,Value
+Completion Rate (Test),0.1448791447602986
+Completion Rate (Control),0.12335629304946776
+Observed Difference,0.021522851710830834
+Z-Statistic,17.60265990894615
+P-Value,2.3502234547775717e-69
+Error Rate (Test),
+Error Rate (Control),
