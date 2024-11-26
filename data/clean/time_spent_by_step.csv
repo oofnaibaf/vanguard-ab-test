@@ -1,0 +1,11 @@
+Variation,process_step,Average Time (seconds)
+Control,confirm,48267.518237082
+Control,start,282717.190522391
+Control,step_1,873.231619397
+Control,step_2,39.557617642
+Control,step_3,351.307342922
+Test,confirm,73564.812260223
+Test,start,189745.809678012
+Test,step_1,953.178471357
+Test,step_2,83.82915061
+Test,step_3,558.888867286
