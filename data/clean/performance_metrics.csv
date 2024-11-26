@@ -1,0 +1,5 @@
+Metric,Group,Value
+Completion Rate,Test,0.6519660291560786
+Completion Rate,Control,0.5922880743024628
+Error Rate,Test,0.03223487185874174
+Error Rate,Control,0.03269458008855227
