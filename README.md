@@ -22,13 +22,17 @@ Experiment Roster (df_final_experiment_clients): A list revealing which clients 
 The project aims to determine:
 
 - Whether the new digital UI leads to a higher completion rate for Vanguard clients?
+  
 Null Hypothesis (H_0): The completion rate for the Test group (new design) is equal to the completion rate for the Control group (old design).
+
 Alternative Hypothesis (H_a): The completion rate for the Test group (new design) is not equal to the completion rate for the Control group (old design).
 
 Our analysis showed that the test group has a higher completion rate compared to the control group. The test group achieved a completion rate of 0.60, while the control group had a rate of 0.51, indicating a statistically significant improvement in performance for the test group. Therfore, we reject the Null Hypothesis.
 
 - Whether the observed increase meets the 5% cost-effectiveness threshold?
+  
 Null Hypothesis (H_0): The completion rate for the Test group (new design) is equal to or greater than the completion rate for the Control group (old design) increased by 5%.
+
 Alternative Hypothesis (H_a): The completion rate for the Test group (new design) is lower than the completion rate for the Control group (old design) increased by 5%.
   
 Our analysis confirmed that the observed increase in completion rate meets the 5% cost-effectiveness threshold. In fact, the improvement is even greater, with the test group showing approximately a 16% higher completion rate compared to the control group. This substantial increase demonstrates a strong and cost-effective result. Here, we can confirm the Null Hypothesis.
