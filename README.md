@@ -19,7 +19,20 @@ Digital Footprints (df_final_web_data): A detailed trace of client interactions 
 Experiment Roster (df_final_experiment_clients): A list revealing which clients participated in the experiment.
 
 ## Results and Key Insights
-.......
+The project aims to determine:
+
+- Whether the new digital UI leads to a higher completion rate for Vanguard clients?
+
+Our analysis showed that the test group has a higher completion rate compared to the control group. The test group achieved a completion rate of 0.60, while the control group had a rate of 0.51, indicating a statistically significant improvement in performance for the test group.
+
+- Whether the observed increase meets the 5% cost-effectiveness threshold?
+  
+Our analysis confirmed that the observed increase in completion rate meets the 5% cost-effectiveness threshold. In fact, the improvement is even greater, with the test group showing approximately a 16% higher completion rate compared to the control group. This substantial increase demonstrates a strong and cost-effective result.
+
+- If any demographic factors influence the completion rates for either the Control or Test group?
+....
+A comprehensive evaluation of the A/B test design, and suggestions for improving future experiments?
+...
 
 ## Conclusion
 This project analyzes the effectiveness of Vanguard’s new digital UI in improving client engagement through an A/B test.....
