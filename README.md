@@ -38,12 +38,13 @@ Alternative Hypothesis (H_a): The completion rate for the Test group (new design
 Our analysis confirmed that the observed increase in completion rate meets the 5% cost-effectiveness threshold. In fact, the improvement is even greater, with the test group showing approximately a 16% higher completion rate compared to the control group. This substantial increase demonstrates a strong and cost-effective result. Here, we can confirm the Null Hypothesis.
 
 - If any demographic factors influence the completion rates for either the Control or Test group?
-....
-A comprehensive evaluation of the A/B test design, and suggestions for improving future experiments?
-...
+
+Based on our analysis, we observed that males in both the Test and Control groups have higher completion rates compared to females. Additionally, individuals aged 45 to 65 exhibited higher error rates, particularly with an increased number of backward steps, indicating that this age group may face more challenges during the task.
+
 
 ## Conclusion
-This project analyzes the effectiveness of Vanguard’s new digital UI in improving client engagement through an A/B test.....
+
+This project analyzes the effectiveness of Vanguard’s new digital UI in improving client engagement through an A/B test. In conclusion, the new digital UI significantly improves the completion rate for Vanguard clients, surpassing the 5% cost-effectiveness threshold, and thus supports the effectiveness of the new design.
 
 ## Presentation
 
