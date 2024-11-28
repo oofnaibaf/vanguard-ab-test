@@ -2,7 +2,7 @@
 
 ## Overview
 
-Vanguard is a leading American investment firm, managing 9.3 btrillion in global assets and Vanguard is commited to investor-centric principles and cost-effective investment solutions. Therefore, this project focuses on analyzing the results of a digital experiment conducted by Vanguard, to assess whether a redesigned user interface (UI) leads to higher completion rates of an online process.
+Vanguard is a leading American investment firm, managing 9.3 trillion in global assets and Vanguard is commited to investor-centric principles and cost-effective investment solutions. Therefore, this project focuses on analyzing the results of a digital experiment conducted by Vanguard, to assess whether a redesigned user interface (UI) leads to higher completion rates of an online process.
 
 The experiment consists of two groups of clients: a Control group using the old UI and a Test group using the new UI. The objective is to evaluate the performance of both groups and assess whether the new design enhances completion rates.
 
